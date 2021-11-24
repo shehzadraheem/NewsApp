@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595908192386",
+    "project_id": "client-a587f",
+    "storage_bucket": "client-a587f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595908192386:android:1e3e9d0e4572133e3a2c9b",
+        "android_client_info": {
+          "package_name": "com.prince.friend.newsclientapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595908192386-8cmq96s9phck4qh61o9k8bnihbemn20b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5k6eN3gEIcZFzE6YHiVkeshLhw7N4pgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595908192386-8cmq96s9phck4qh61o9k8bnihbemn20b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
